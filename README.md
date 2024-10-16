@@ -19,8 +19,10 @@ The main functionality is contained in the encrypt_decrypt_image function. To en
 ```python main.py```
 
 The encrypted and decrypted images are saved as:
-```encrypted_image.png
-decrypted_image.png```
+```
+encrypted_image.png
+decrypted_image.png
+```
 These files are saved in the current working directory.
 
 ## Contributing
